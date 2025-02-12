@@ -2,7 +2,7 @@
 
 A simple Todo application built with Spring Boot, Thymeleaf, and MySQL. It allows users to add, complete, delete, and view tasks.
 
-!![Screenshot 2025-02-12 115034.png](src/main/resources/static/images/)
+!![Interface.png](src/main/resources/static/images/Screenshot-2025-02-12-115034.png)
 
 
 ## Features
